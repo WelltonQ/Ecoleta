@@ -61,7 +61,7 @@ As aulas foram ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** n
 
 - Faça um fork desse repositório;
 - Instale as dependências: `yarn install`;
-- Incie o projeto: `yarn start`;
+- Inicie o projeto: `yarn start`;
 - Acesse o navegador: `http://localhost:3000`.
 
 
